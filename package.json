@@ -4,8 +4,12 @@
   "description": "Convert one or more ditty files to a PDF",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint . && echo \"Warning: Only linting supported at the moment.\""
   },
   "author": "Tomek Wiszniewski <t.wiszniewski@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.1.0"
+  }
 }
