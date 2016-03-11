@@ -1,0 +1,11 @@
+{
+  "name": "ditty-to-pdf",
+  "version": "0.0.0",
+  "description": "Convert one or more ditty files to a PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomek Wiszniewski <t.wiszniewski@gmail.com>",
+  "license": "MIT"
+}
