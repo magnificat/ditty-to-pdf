@@ -1,6 +1,6 @@
 {
   "name": "ditty-to-pdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert one or more ditty files to a PDF",
   "main": "index.js",
   "bin": {
