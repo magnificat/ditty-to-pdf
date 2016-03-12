@@ -1,9 +1,9 @@
 [![Travis – build status
-](https://img.shields.io/travis/magnificat/ditty/master.svg?style=flat-square
-)](https://travis-ci.org/magnificat/ditty
+](https://img.shields.io/travis/magnificat/ditty-to-pdf/master.svg?style=flat-square
+)](https://travis-ci.org/magnificat/ditty-to-pdf
 ) [![David – status of dependencies
-](https://img.shields.io/david/magnificat/ditty.svg?style=flat-square
-)](https://david-dm.org/magnificat/ditty
+](https://img.shields.io/david/magnificat/ditty-to-pdf.svg?style=flat-square
+)](https://david-dm.org/magnificat/ditty-to-pdf
 ) [![Code style: airbnb
 ](https://img.shields.io/badge/code%20style-airbnb-777777.svg?style=flat-square
 )](https://github.com/airbnb/javascript
