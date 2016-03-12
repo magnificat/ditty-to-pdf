@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Convert one or more ditty files to a PDF",
   "main": "index.js",
+  "bin": {
+    "ditty-to-pdf": "bin/ditty-to-pdf"
+  },
   "scripts": {
     "test": "eslint . && echo \"Warning: Only linting supported at the moment.\""
   },
@@ -11,5 +14,15 @@
   "devDependencies": {
     "eslint": "^2.4.0",
     "eslint-config-airbnb": "^6.1.0"
+  },
+  "dependencies": {
+    "html-pdf": "^2.0.1",
+    "parse-ditty": "^1.0.3",
+    "stringify-entities": "^1.0.1",
+    "tiny-error": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnificat/ditty-to-pdf.git"
   }
 }
