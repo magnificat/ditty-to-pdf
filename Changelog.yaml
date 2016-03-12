@@ -1,0 +1,8 @@
+1.0.1:
+  date: 2016-03-12
+  fixed bugs:
+    - Margins are ok in a multipage document.
+
+1.0.0:
+  date: 2016-03-12
+  note: Initial release.

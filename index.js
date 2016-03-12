@@ -28,10 +28,6 @@ const style = (
   font-family: Andada, serif;
 }
 
-body {
-  margin: 8mm 12mm;
-}
-
 * {
   font-size: inherit;
   margin: 0;
@@ -71,7 +67,10 @@ ${renderedSongs.join('')}
 `
   );
 
-  pdf.create(html, { format: 'A5' })
+  pdf.create(html, {
+    format: 'A5',
+    border: { top: '8mm', right: '12mm', bottom: '8mm', left: '12mm' },
+  })
     .toFile(destination, (error, result) => {
       if (error) throw error;
       process.stdout.write(`${result.filename}\n`);
