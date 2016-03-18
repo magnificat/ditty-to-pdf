@@ -19,7 +19,10 @@
 
 
 
-<a                                                 id="/installation"></a>&nbsp;
+
+
+
+<a id="/installation"></a>&nbsp;
 
 ## INSTALLATION
 
@@ -32,7 +35,7 @@ Note that you need *node 4.0+* to run the tool natively. But if you’re stuck o
 
 
 
-<a                                                     id="/synopsis"></a>&nbsp;
+<a id="/synopsis"></a>&nbsp;
 
 ## SYNOPSIS
 
@@ -43,7 +46,7 @@ ditty-to-pdf ...<file> <destination>
 
 
 
-<a                                                  id="/description"></a>&nbsp;
+<a id="/description"></a>&nbsp;
 
 ## DESCRIPTION
 
@@ -52,7 +55,7 @@ We’ll render an A5-sized PDF with lyrics to the ditty songs. No fancy, just th
 
 
 
-<a                                                      id="/options"></a>&nbsp;
+<a id="/options"></a>&nbsp;
 
 ## OPTIONS
 
@@ -65,7 +68,7 @@ Pass a relative or absolute path the rendered PDF should be written to.
 
 
 
-<a                                                      id="/license"></a>&nbsp;
+<a id="/license"></a>&nbsp;
 
 ## LICENSE
 
