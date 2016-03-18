@@ -16,8 +16,16 @@
 
 **Convert one or more [ditty](https://git.io/ditty) files to a lyrics PDF**
 
+<a id="/demo"></a>&nbsp;
 
+How about a live demo? Here’s the result of running `ditty-to-pdf` over these files: [•](https://github.com/magnificat/magnificat.surge.sh/blob/eac88b6/data/3.%20Kanony/03.%20Witaj%20Panie.ditty) [•](https://github.com/magnificat/magnificat.surge.sh/blob/eac88b6/data/1.%20Do%20Ducha/03.%20Ruah.ditty) [•](https://github.com/magnificat/magnificat.surge.sh/blob/eac88b6/data/3.%20Kanony/06.%20Jezu%2C%20Ty%C5%9B%20jest.ditty) [•](https://github.com/magnificat/magnificat.surge.sh/blob/eac88b6/data/3.%20Kanony/02.%20Albowiem%20tak%20B%C3%B3g.ditty) [•](https://github.com/magnificat/magnificat.surge.sh/blob/eac88b6/data/3.%20Kanony/07.%20Mi%C5%82o%C5%9B%C4%87%20Twa.ditty):
 
+<p align="center"><img
+  alt="Demo"
+  src="https://raw.githack.com/magnificat/ditty-to-pdf/242ea98/example.svg"
+  title="Sweet, isn’t it?"
+  width="525"
+/></p>
 
 
 
